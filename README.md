@@ -17,6 +17,17 @@ Stuff that's missing:
 
 - [ ] eslint
 
+## Usage
+
+There are three ways to use this template:
+
+- If you're viewing this on GitHub, you can click the **"Use this template"** button in the upper right to create a new repository from this template.
+- You can simply fork this repository and clone it locally.
+- You can use `degit`:
+  ```
+  npx degit hmans/monorepo-template my-new-project
+  ```
+
 ## Configuration
 
 After forking and cloning this template repository, you may want to make the following configuration changes:
