@@ -27,3 +27,7 @@ After forking and cloning this template repository, you may want to make the fol
 - Delete/modify `example-package`
 
 (Apologies for this just being a list of short bullet points, I will try to add some explanations over time.)
+
+## Sponsoring
+
+If you like this template or any of my [other open-source projects](https://github.com/hmans), consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/hmans).
