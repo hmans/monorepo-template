@@ -23,3 +23,5 @@ After forking and cloning this template repository, you may want to make the fol
 
 - Configure `NPM_TOKEN` for GitHub Actions
 - Remove/change `.github/FUNDING.yml`
+- Set up TurboRepo cache and remote cache
+- Delete/modify `example-package`
